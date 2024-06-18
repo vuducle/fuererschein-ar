@@ -49,3 +49,603 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: stopPrefab
     m_Texture: {fileID: 2800000, guid: 8346f06a6a42347ff96825fdd5a0d710, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5421895695684646224
+      m_GuidHigh: 10317440811730175902
+    m_SerializedTextureGuid:
+      m_GuidLow: 307448872827838581
+      m_GuidHigh: 6567837576620176745
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: AbsolutesHaltverbot
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4912110712283175415
+      m_GuidHigh: 13041233435938303648
+    m_SerializedTextureGuid:
+      m_GuidLow: 13008289059177502470
+      m_GuidHigh: 5385918610315555482
+    m_Size: {x: 0.1, y: 0.15105}
+    m_SpecifySize: 1
+    m_Name: Andreaskreuz
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4965620194033496589
+      m_GuidHigh: 12575286939117999781
+    m_SerializedTextureGuid:
+      m_GuidLow: 7213260562440115560
+      m_GuidHigh: 7921038909275115499
+    m_Size: {x: 0.1, y: 0.0276}
+    m_SpecifySize: 1
+    m_Name: AusfahrtvonderAutobahn
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4999472058648929015
+      m_GuidHigh: 12340445758534391197
+    m_SerializedTextureGuid:
+      m_GuidLow: 6067435182518683741
+      m_GuidHigh: 4530129655800340440
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Autobahn
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5743387737207036106
+      m_GuidHigh: 2665694702035535538
+    m_SerializedTextureGuid:
+      m_GuidLow: 317824724824276501
+      m_GuidHigh: 15415405693522553050
+    m_Size: {x: 0.1, y: 0.087850004}
+    m_SpecifySize: 1
+    m_Name: "Bahnu\u0308bergang"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5022298097753504963
+      m_GuidHigh: 3913003863387268225
+    m_SerializedTextureGuid:
+      m_GuidLow: 14141641331898931869
+      m_GuidHigh: 15643755376845096057
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "BeginneinerFahrradstra\xDFe"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4989136512207353119
+      m_GuidHigh: 3862979883833083054
+    m_SerializedTextureGuid:
+      m_GuidLow: 10696859375012693479
+      m_GuidHigh: 6470982196423091610
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: BeginneinerFahrradzone
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4751558235061706259
+      m_GuidHigh: 6848876807143388314
+    m_SerializedTextureGuid:
+      m_GuidLow: 17586915226367797348
+      m_GuidHigh: 12090493819137163369
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "BeginneinerFu\xDFga\u0308ngerzone"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4621776302198342809
+      m_GuidHigh: 8902219669247925899
+    m_SerializedTextureGuid:
+      m_GuidLow: 6114623649798938386
+      m_GuidHigh: 4207085735095938569
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: BeginneinerParkraum-bewirtschaftungszone
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4752847635849254561
+      m_GuidHigh: 9230382238719572620
+    m_SerializedTextureGuid:
+      m_GuidLow: 6078034847367957720
+      m_GuidHigh: 4274871208663932249
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: BeginneinerTempo30-Zone
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4933634049391073856
+      m_GuidHigh: 12282391126127741348
+    m_SerializedTextureGuid:
+      m_GuidLow: 11840229970123073806
+      m_GuidHigh: 15421332839400094360
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "BeginneinesEingeschra\u0308nktenHaltverbotsfu\u0308reineZone"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4660188906934164341
+      m_GuidHigh: 725435243556363186
+    m_SerializedTextureGuid:
+      m_GuidLow: 7229482304608529068
+      m_GuidHigh: 11155832363011564363
+    m_Size: {x: 0.26917902, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "Einbahnstra\xDFe"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4640340845931631813
+      m_GuidHigh: 17234208120152041896
+    m_SerializedTextureGuid:
+      m_GuidLow: 7228674617782680140
+      m_GuidHigh: 18245001926998648697
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "Ein\xADge\xADschra\u0308nktesHaltverbot"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5417744840315899345
+      m_GuidHigh: 9705997074327059594
+    m_SerializedTextureGuid:
+      m_GuidLow: 16464988865564488670
+      m_GuidHigh: 11126264692011994202
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "EndederKraftfahrstra\xDFe"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4707140651014010034
+      m_GuidHigh: 13210448394190300053
+    m_SerializedTextureGuid:
+      m_GuidLow: 6092150947462648626
+      m_GuidHigh: 10503680035877843593
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "Endedervor\xADge\xADschriebenenMindest\xADgeschwin\xADdigkeit"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5205154231226454050
+      m_GuidHigh: 15769302936264227208
+    m_SerializedTextureGuid:
+      m_GuidLow: 9582016578230578784
+      m_GuidHigh: 5527916661002282859
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "EndeeinerFahrradstra\xDFe"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5011412693683574941
+      m_GuidHigh: 4164951076816147381
+    m_SerializedTextureGuid:
+      m_GuidLow: 2616138243469772314
+      m_GuidHigh: 16394156258779422313
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: EndeeinerFahrradzone
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4744176386859683092
+      m_GuidHigh: 10596368680237270452
+    m_SerializedTextureGuid:
+      m_GuidLow: 6087497414886903742
+      m_GuidHigh: 2286193341605181450
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: EndeeinerTempo30-Zone
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5688375862408527443
+      m_GuidHigh: 15407811876253711280
+    m_SerializedTextureGuid:
+      m_GuidLow: 16448508926130217985
+      m_GuidHigh: 18194864939916893576
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: ErsteHilfe
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5235363527572120568
+      m_GuidHigh: 12606308181457531061
+    m_SerializedTextureGuid:
+      m_GuidLow: 14177008688587799680
+      m_GuidHigh: 6785686493247865337
+    m_Size: {x: 0.1, y: 0.088}
+    m_SpecifySize: 1
+    m_Name: "Fu\xDFga\u0308nger"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4798583514849926307
+      m_GuidHigh: 2753449815471018115
+    m_SerializedTextureGuid:
+      m_GuidLow: 4958385280080972808
+      m_GuidHigh: 1457866468589347514
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "Fu\xDF\xADga\u0308nger\xADu\u0308ber\xADweg"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5070017239819828706
+      m_GuidHigh: 11743788138851010194
+    m_SerializedTextureGuid:
+      m_GuidLow: 11856469283889509693
+      m_GuidHigh: 13690413656817054939
+    m_Size: {x: 0.1, y: 0.087850004}
+    m_SpecifySize: 1
+    m_Name: Gefahrstelle
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5281416855388044382
+      m_GuidHigh: 16882289948137596828
+    m_SerializedTextureGuid:
+      m_GuidLow: 7217776635244941377
+      m_GuidHigh: 14235131304877079130
+    m_Size: {x: 0.1, y: 0.088}
+    m_SpecifySize: 1
+    m_Name: Gegenverkehr
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5506905539945275986
+      m_GuidHigh: 5983477412148719797
+    m_SerializedTextureGuid:
+      m_GuidLow: 7217776635244941377
+      m_GuidHigh: 14235131304877079130
+    m_Size: {x: 0.1, y: 0.088}
+    m_SpecifySize: 1
+    m_Name: Gegenverkehr
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4932617083411488767
+      m_GuidHigh: 16477253285780070543
+    m_SerializedTextureGuid:
+      m_GuidLow: 16496585245044000381
+      m_GuidHigh: 11473851505201386537
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Gehweg
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5425989929772243790
+      m_GuidHigh: 9688855606775589257
+    m_SerializedTextureGuid:
+      m_GuidLow: 2647639795526363834
+      m_GuidHigh: 14249619006908024107
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: GemeinsamerGeh-undRadweg
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4812258631487990144
+      m_GuidHigh: 459320489345306755
+    m_SerializedTextureGuid:
+      m_GuidLow: 14154243480156217380
+      m_GuidHigh: 2126966346344121065
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Geradeausoderrechts
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5082467119502977370
+      m_GuidHigh: 3172893390007203517
+    m_SerializedTextureGuid:
+      m_GuidLow: 1447760104966886859
+      m_GuidHigh: 4091251657671933592
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: GetrennterRad-undGehweg
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4994098172432828227
+      m_GuidHigh: 16798056930689791918
+    m_SerializedTextureGuid:
+      m_GuidLow: 9526140603669505157
+      m_GuidHigh: 5608207327809574153
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "Gru\u0308npfeilschild"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4761188617848144303
+      m_GuidHigh: 17853548026341279649
+    m_SerializedTextureGuid:
+      m_GuidLow: 3782859045917356138
+      m_GuidHigh: 1213615465535203577
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "Halt.Vorfahrtgewa\u0308hren"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5654923249300970024
+      m_GuidHigh: 78311382451466134
+    m_SerializedTextureGuid:
+      m_GuidLow: 2618437572554529567
+      m_GuidHigh: 16714672905682574632
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Haltestelle
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5746328467022551146
+      m_GuidHigh: 13687802739465305267
+    m_SerializedTextureGuid:
+      m_GuidLow: 9526390698792211712
+      m_GuidHigh: 16827336582718541433
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Hierrechts
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5548918605166516353
+      m_GuidHigh: 14106012219548875690
+    m_SerializedTextureGuid:
+      m_GuidLow: 8366056988421290485
+      m_GuidHigh: 3742100191619079099
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "Kraftfahrstra\xDFe"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5173756117948863388
+      m_GuidHigh: 12509721066664724122
+    m_SerializedTextureGuid:
+      m_GuidLow: 15347866951822371428
+      m_GuidHigh: 641727147725575594
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Kreisverkehr
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5517211551044946563
+      m_GuidHigh: 5206007241335075756
+    m_SerializedTextureGuid:
+      m_GuidLow: 11846152906131132119
+      m_GuidHigh: 12987964098200864489
+    m_Size: {x: 0.1, y: 0.087850004}
+    m_SpecifySize: 1
+    m_Name: "KreuzungoderEinmu\u0308ndung"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5509526491116051432
+      m_GuidHigh: 2669275152441341851
+    m_SerializedTextureGuid:
+      m_GuidLow: 4944839793494310781
+      m_GuidHigh: 1865874523487862619
+    m_Size: {x: 0.1, y: 0.087850004}
+    m_SpecifySize: 1
+    m_Name: Kurve
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5399473739659234308
+      m_GuidHigh: 12312117923120270267
+    m_SerializedTextureGuid:
+      m_GuidLow: 3771453410570389387
+      m_GuidHigh: 16636273965389952939
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Parken
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5231161711058755210
+      m_GuidHigh: 8510896521811238561
+    m_SerializedTextureGuid:
+      m_GuidLow: 344611253627975417
+      m_GuidHigh: 17151274696417665610
+    m_Size: {x: 0.1, y: 0.13635}
+    m_SpecifySize: 1
+    m_Name: Parkscheibe
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5311486325509086295
+      m_GuidHigh: 5908027121737107113
+    m_SerializedTextureGuid:
+      m_GuidLow: 2650990125701364742
+      m_GuidHigh: 3808219729174809626
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Polizei
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5022013961765685222
+      m_GuidHigh: 7097158569999174544
+    m_SerializedTextureGuid:
+      m_GuidLow: 15280976327279425877
+      m_GuidHigh: 10513633221594557323
+    m_Size: {x: 0.1, y: 0.088}
+    m_SpecifySize: 1
+    m_Name: Radverkehr
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5118181207537870304
+      m_GuidHigh: 11550420313548722571
+    m_SerializedTextureGuid:
+      m_GuidLow: 16457613932047792991
+      m_GuidHigh: 8242622359663744362
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Radweg
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5116375399729718928
+      m_GuidHigh: 13153820897237652116
+    m_SerializedTextureGuid:
+      m_GuidLow: 8422871483375245284
+      m_GuidHigh: 16834266455975103704
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Rechts
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4962693448705543797
+      m_GuidHigh: 3032081054839020966
+    m_SerializedTextureGuid:
+      m_GuidLow: 15348005087224617487
+      m_GuidHigh: 5220331884233481579
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Rechtsvorbei
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5130690980871685935
+      m_GuidHigh: 16860579740170195341
+    m_SerializedTextureGuid:
+      m_GuidLow: 7243975234154325972
+      m_GuidHigh: 4969660351280379803
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Schneekettenvorgeschrieben
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5138341665055470555
+      m_GuidHigh: 8753867057834053255
+    m_SerializedTextureGuid:
+      m_GuidLow: 337733502134427276
+      m_GuidHigh: 5013826146844907464
+    m_Size: {x: 0.1, y: 0.08791209}
+    m_SpecifySize: 1
+    m_Name: Stau
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4848649685588107010
+      m_GuidHigh: 18033857502042741894
+    m_SerializedTextureGuid:
+      m_GuidLow: 17643661768210600809
+      m_GuidHigh: 2024964230025227000
+    m_Size: {x: 0.1, y: 0.1499}
+    m_SpecifySize: 1
+    m_Name: Taxenstand
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5004090637899843784
+      m_GuidHigh: 9813162067016293538
+    m_SerializedTextureGuid:
+      m_GuidLow: 15330585342414744332
+      m_GuidHigh: 7001642620824132984
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "U\u0308berhol\xADverbotfu\u0308rKraft\xADfahr\xADzeugeallerArt"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5105604635114901084
+      m_GuidHigh: 11014601521642101901
+    m_SerializedTextureGuid:
+      m_GuidLow: 16471578457320882321
+      m_GuidHigh: 4676998351553307658
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: VerbotderEinfahrt
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5349351101960273130
+      m_GuidHigh: 377852943872390551
+    m_SerializedTextureGuid:
+      m_GuidLow: 6094340352104683032
+      m_GuidHigh: 8774949720556109848
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "Verbotfu\u0308rFahrzeugeallerArt"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5661631181160495082
+      m_GuidHigh: 11236414322649612734
+    m_SerializedTextureGuid:
+      m_GuidLow: 11878124572392693217
+      m_GuidHigh: 12376837929297737961
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "Verbotfu\u0308rFu\xDFga\u0308nger"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4968430418331122188
+      m_GuidHigh: 15703232836154458760
+    m_SerializedTextureGuid:
+      m_GuidLow: 12994050441549451333
+      m_GuidHigh: 3914245214713092586
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "Verbotfu\u0308rkenn\xADzeichnungs\xADpflichtigeKraft\xADfahr\xADzeugemitgefa\u0308hrlichenGu\u0308tern"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5058835545631621343
+      m_GuidHigh: 9733586249807996562
+    m_SerializedTextureGuid:
+      m_GuidLow: 17650663062132629350
+      m_GuidHigh: 10522339606812335049
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "Verbotfu\u0308rKraftfahrzeuge"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5025451632454405721
+      m_GuidHigh: 9420794200348043192
+    m_SerializedTextureGuid:
+      m_GuidLow: 309240323681811050
+      m_GuidHigh: 17163886061953255403
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "Verbotfu\u0308rKraftwagen"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4631247544071349935
+      m_GuidHigh: 14748495904089189806
+    m_SerializedTextureGuid:
+      m_GuidLow: 8381677567220712841
+      m_GuidHigh: 2126586130773229706
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "Verbotfu\u0308rKraft\xADfahrzeugeu\u0308ber3,5t"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5011151178497102249
+      m_GuidHigh: 2617644160450999955
+    m_SerializedTextureGuid:
+      m_GuidLow: 12981743740283801762
+      m_GuidHigh: 12574537376148320698
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "Verbotfu\u0308rRadverkehr"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5348421520375132589
+      m_GuidHigh: 6169377399580321466
+    m_SerializedTextureGuid:
+      m_GuidLow: 15310827071951734376
+      m_GuidHigh: 17607257403145104505
+    m_Size: {x: 0.1, y: 0.087850004}
+    m_SpecifySize: 1
+    m_Name: VerengteFahrbahn
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4956600534004537235
+      m_GuidHigh: 2945241403099851673
+    m_SerializedTextureGuid:
+      m_GuidLow: 15321473494419606843
+      m_GuidHigh: 7796779197338564968
+    m_Size: {x: 0.1, y: 0.087850004}
+    m_SpecifySize: 1
+    m_Name: "Vorfahrtgewa\u0308hren"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5731645462806871651
+      m_GuidHigh: 13485779261335504545
+    m_SerializedTextureGuid:
+      m_GuidLow: 10695962912280335202
+      m_GuidHigh: 10651303561221884027
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: VorrangdesGegenverkehrs
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5749507644274915636
+      m_GuidHigh: 7313145214232821931
+    m_SerializedTextureGuid:
+      m_GuidLow: 17607006214449760256
+      m_GuidHigh: 8511551931752505322
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: VorrangvordemGegenverkehr
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5194177656405091955
+      m_GuidHigh: 15965655917740575398
+    m_SerializedTextureGuid:
+      m_GuidLow: 10725265627288060659
+      m_GuidHigh: 5359261722877912650
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: "Zula\u0308s\xADsigeHo\u0308chst\xADge\xADschwin\xADdig\xADkeit"
+    m_Texture: {fileID: 0}
