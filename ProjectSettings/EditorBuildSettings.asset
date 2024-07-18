@@ -14,7 +14,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/TestScene.unity
     guid: c54128d6b70e94565979761c7f5a7e9d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/TappingScene.unity
     guid: 591a2c420119a4c8fbc83001f333da13
   - enabled: 0
