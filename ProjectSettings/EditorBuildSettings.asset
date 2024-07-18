@@ -11,7 +11,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/HomeScene.unity
     guid: 63b02170107a04349b3c77aaf820753f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/TestScene.unity
     guid: c54128d6b70e94565979761c7f5a7e9d
   - enabled: 0
@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/UIScene.unity
     guid: bbeb2c4f515f64576ab2d7d96e5b6c97
+  - enabled: 1
+    path: Assets/Scenes/TappingScene[WORKING].unity
+    guid: d63e2b127633941a6b88400cbc6d6168
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
