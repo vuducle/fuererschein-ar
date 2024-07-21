@@ -26,10 +26,10 @@ public class SceneSwitcher : MonoBehaviour
         switch (i)
         {
             case 0:
-                SceneManager.LoadScene("Scenes/TappingScene");
+                SceneManager.LoadScene("Scenes/TappingScene[WORKING]");
                 break;
             case 1:
-                SceneManager.LoadScene("Scenes/TestScene");
+                SceneManager.LoadScene("Scenes/TestScene[WORKING]");
                 break;
         }
     }
