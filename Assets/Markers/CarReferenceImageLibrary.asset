@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: CarReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5181175894808748509
+  m_GuidHigh: 12063694613332582285
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5172246959032856616
+      m_GuidHigh: 13873641538908239271
+    m_SerializedTextureGuid:
+      m_GuidLow: 17625896883404557142
+      m_GuidHigh: 3616960691020963305
+    m_Size: {x: 0.1, y: 0.056250002}
+    m_SpecifySize: 1
+    m_Name: Audi-Etron
+    m_Texture: {fileID: 2800000, guid: 56fe4b56c3d4f49be91ddbc295063232, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4612504907799844575
+      m_GuidHigh: 915817824771446420
+    m_SerializedTextureGuid:
+      m_GuidLow: 313068986165375078
+      m_GuidHigh: 12968913367154048363
+    m_Size: {x: 0.1, y: 0.05240418}
+    m_SpecifySize: 1
+    m_Name: Porsche
+    m_Texture: {fileID: 2800000, guid: 8e9430663e9504586b3d08c4fed5fab3, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5573462339422308874
+      m_GuidHigh: 7985082695141936807
+    m_SerializedTextureGuid:
+      m_GuidLow: 14138836263964458639
+      m_GuidHigh: 6718289144329034714
+    m_Size: {x: 0.1, y: 0.055752214}
+    m_SpecifySize: 1
+    m_Name: BMW-M4
+    m_Texture: {fileID: 2800000, guid: db033e8f3cabc437da5b18ba61283c5d, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5222404051997312432
+      m_GuidHigh: 16507117463947720833
+    m_SerializedTextureGuid:
+      m_GuidLow: 11881094380598537132
+      m_GuidHigh: 14554226230401546200
+    m_Size: {x: 0.1, y: 0.05442404}
+    m_SpecifySize: 1
+    m_Name: Chevrolet
+    m_Texture: {fileID: 0}

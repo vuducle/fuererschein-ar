@@ -11,6 +11,8 @@ public class ImageTracking : MonoBehaviour
 {
     [SerializeField] private GameObject[] prefabsToSpawn;
 
+    [SerializeField] private bool ShouldMatchImageRotation = false;
+
     private Dictionary<string, GameObject> arObjects;
     
     private ARTrackedImageManager arTrackedImageManager;
@@ -72,6 +74,15 @@ public class ImageTracking : MonoBehaviour
         {
             arObjects[image.referenceImage.name].gameObject.SetActive(true);
             arObjects[image.referenceImage.name].gameObject.transform.position = image.transform.position;
+            if (ShouldMatchImageRotation)
+            {
+                arObjects[image.referenceImage.name].gameObject.transform.rotation = image.transform.rotation;
+                if (image.referenceImage.name == "Porsche")
+                {
+                    arObjects[image.referenceImage.name].gameObject.transform.Rotate(-180f, 0f, 0f, 
+                        Space.Self);
+                }
+            }
         }
     }
 }
