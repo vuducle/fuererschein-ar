@@ -812,7 +812,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_SerializedLibrary: {fileID: 11400000, guid: 263e7f6afe9104c9cb3993b43f8de74e,
     type: 2}
-  m_MaxNumberOfMovingImages: 2
+  m_MaxNumberOfMovingImages: 1
   m_TrackedImagePrefab: {fileID: 0}
 --- !u!114 &312452960
 MonoBehaviour:
@@ -874,9 +874,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prefabsToSpawn:
-  - {fileID: 979056139594454013, guid: 3efae022f643b40c5b5ec18e0d3fab91, type: 3}
-  - {fileID: 979056139594454013, guid: 941ab81965db04778971492465d825a2, type: 3}
+  - {fileID: 979056139594454013, guid: 1ee015ffaabe3408f8ce8919b8616061, type: 3}
+  - {fileID: 979056139594454013, guid: 87fa8dcfb23cb486196b21653aa9a12b, type: 3}
   - {fileID: 979056139594454013, guid: f1a454e23ab354f97b78aca7e8116349, type: 3}
+  - {fileID: 979056139594454013, guid: d86e1ebdab5b54b7e822d9e7fa69327a, type: 3}
+  - {fileID: 979056139594454013, guid: 704938b47b2804222b6b1cee153da1b4, type: 3}
+  - {fileID: 979056139594454013, guid: 249697067fe0a4041a4825bb1c3d444b, type: 3}
+  - {fileID: 979056139594454013, guid: 4d91fb57e752a426a80796da61f0dd23, type: 3}
+  - {fileID: 979056139594454013, guid: 8bceeaf17e2834ea5bc74f9c4b4cd50f, type: 3}
 --- !u!1 &400949139
 GameObject:
   m_ObjectHideFlags: 0

@@ -167,7 +167,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Autobahn
+  m_text: "Autobahn\n- Beginn einer Autobahn\n- Fahrzeuge \xFCber 50km/h nur zul\xE4ssig\n-
+    schnelles Beschleunigen auf 80km/h\n- bei freien Platz von Einf\xE4delungstreifen
+    links einscheren"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

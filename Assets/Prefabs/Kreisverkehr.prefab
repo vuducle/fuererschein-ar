@@ -167,7 +167,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Kreisverkehr
+  m_text: "Kreisverkehr\n- Beginn eines Kreisverkehrs\n- Fahrzeuge im Kreisverkehr
+    Vorfahrt gew\xE4hren\n- Rechts blinken nicht notwendig\n- bei freier Bahn ins
+    Verkehr reinfahren\n- beim Ausfahren einens der Ausfahrten blinken\n- Radfahrer
+    und Fu\xDFg\xE4nger Vorfahrt gew\xE4hren"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
